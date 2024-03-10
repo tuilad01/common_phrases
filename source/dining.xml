@@ -1,0 +1,1838 @@
+<table class="table table-striped">
+			<thead>
+				<tr>
+          <th>
+            English
+          </th>
+          <th>Slow</th>
+          <th>Normal</th>
+				</tr>
+			</thead>
+			<tbody>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/are.mp3')">
+  										Are</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/here.mp3')">
+  										here</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/alone.mp3')">
+  										alone?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/areYouHereAlone.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/areYouHereAlone.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/can.mp3')">
+  										Can</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/bring.mp3')">
+  										bring</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/my.mp3')">
+  										my</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/friend.mp3')">
+  										friend?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/canIBringAFriend.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/canIBringAFriend.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/can.mp3')">
+  										Can</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/receipt.mp3')">
+  										receipt</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/please.mp3')">
+  										please?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/canIHaveARecieptPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/canIHaveARecieptPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/can.mp3')">
+  										Can</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/it.mp3')">
+  										it</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/be.mp3')">
+  										be</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/cheaper.mp3')">
+  										cheaper?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/canItBeCheaper.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/canItBeCheaper.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/can.mp3')">
+  										Can</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/we.mp3')">
+  										we</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/menu.mp3')">
+  										menu</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/please.mp3')">
+  										please.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/canWeHaveAMenuPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/canWeHaveAMenuPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/can.mp3')">
+  										Can</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/hold.mp3')">
+  										hold</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/this.mp3')">
+  										this</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/for.mp3')">
+  										for</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/me.mp3')">
+  										me?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/canYouHoldThisForMe.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/canYouHoldThisForMe.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/do.mp3')">
+  										Do</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/any.mp3')">
+  										any</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/children.mp3')">
+  										children?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/doYouHaveAnyChildren.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/doYouHaveAnyChildren.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/do.mp3')">
+  										Do</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/know.mp3')">
+  										know</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/how.mp3')">
+  										how</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/much.mp3')">
+  										much</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/it.mp3')">
+  										it</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/costs.mp3')">
+  										costs?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/doYouKnowHowMuchItCosts.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/doYouKnowHowMuchItCosts.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										Have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/eaten.mp3')">
+  										eaten</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/at.mp3')">
+  										at</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/that.mp3')">
+  										that</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/restaurant.mp3')">
+  										restaurant?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/haveYouEatenAtThatRestaurant.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/haveYouEatenAtThatRestaurant.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										Have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/eaten.mp3')">
+  										eaten</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/yet.mp3')">
+  										yet?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/haveYouEatenYet.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/haveYouEatenYet.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										Have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/ever.mp3')">
+  										ever</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/had.mp3')">
+  										had</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/potato.mp3')">
+  										Potato</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/soup.mp3')">
+  										soup?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/haveYouEverHadPotatoSoup.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/haveYouEverHadPotatoSoup.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/he.mp3')">
+  										He</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/likes.mp3')">
+  										likes</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/juice.mp3')">
+  										juice</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/but.mp3')">
+  										but</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/he.mp3')">
+  										he</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/doesnt.mp3')">
+  										doesn't</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/milk.mp3')">
+  										milk</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/heLIkesJuiceButHeDoesntLikeMilk.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/heLIkesJuiceButHeDoesntLikeMilk.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/here.mp3')">
+  										Here</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/is.mp3')">
+  										is</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/your.mp3')">
+  										your</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/salad.mp3')">
+  										salad.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/heresYourSalad.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/heresYourSalad.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/heres.mp3')">
+  										Here's</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/your.mp3')">
+  										your</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/order.mp3')">
+  										order.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/heresYourOrder.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/heresYourOrder.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/how.mp3')">
+  										How</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/does.mp3')">
+  										does</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/it.mp3')">
+  										it</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/taste.mp3')">
+  										taste?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/howDoesItTaste.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/howDoesItTaste.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/how.mp3')">
+  										How</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/many.mp3')">
+  										many</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/people.mp3')">
+  										people?</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/(restaurant).mp3')">
+  										(restaurant)</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/howManyPeople.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/howManyPeople.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/agree.mp3')">
+  										agree.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/iAgree.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/iAgree.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/id.mp3')">
+  										I'd</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/table.mp3')">
+  										table</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/near.mp3')">
+  										near</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/the.mp3')">
+  										the</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/window.mp3')">
+  										window.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/IdLikeATableNearTheWindow.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/IdLikeATableNearTheWindow.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/id.mp3')">
+  										I'd</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/call.mp3')">
+  										call</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/the.mp3')">
+  										the</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/united.mp3')">
+  										United</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/states.mp3')">
+  										States.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/idLikeToCallTheUnitedStates.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/idLikeToCallTheUnitedStates.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/havent.mp3')">
+  										haven't</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/been.mp3')">
+  										been</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/there.mp3')">
+  										there.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/IHaventBeenThere.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/IHaventBeenThere.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/havent.mp3')">
+  										haven't</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/finished.mp3')">
+  										finished</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/eating.mp3')">
+  										eating.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/IHaventFinishedEating.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/IHaventFinishedEating.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/it.mp3')">
+  										it.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/ILikeIt.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/ILikeIt.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/ill.mp3')">
+  										I'll</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/give.mp3')">
+  										give</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/call.mp3')">
+  										call.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/illGiveYouACall.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/illGiveYouACall.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/ill.mp3')">
+  										I'll</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/cup.mp3')">
+  										cup</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/of.mp3')">
+  										of</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/tea.mp3')">
+  										tea</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/please.mp3')">
+  										please.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/illHaveACupOfTeaPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/illHaveACupOfTeaPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/ill.mp3')">
+  										I'll</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/glass.mp3')">
+  										glass</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/of.mp3')">
+  										of</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/water.mp3')">
+  										water</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/please.mp3')">
+  										please.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/illHaveAGlassOfWaterPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/illHaveAGlassOfWaterPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/im.mp3')">
+  										I'm</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/from.mp3')">
+  										from</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/america.mp3')">
+  										America.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/imFromAmerica.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/imFromAmerica.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/im.mp3')">
+  										I'm</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/going.mp3')">
+  										going</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/bed.mp3')">
+  										bed.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/ImGoingToBed.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/ImGoingToBed.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/im.mp3')">
+  										I'm</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/here.mp3')">
+  										here</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/on.mp3')">
+  										on</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/business.mp3')">
+  										business.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/ImHereOnBusiness.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/ImHereOnBusiness.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/im.mp3')">
+  										I'm</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/sorry.mp3')">
+  										sorry.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/ImSorry.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/ImSorry.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/only.mp3')">
+  										only</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/.mp3')">
+  										5</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/dollars.mp3')">
+  										dollars.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/IOnlyHave5Dollars.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/IOnlyHave5Dollars.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+            <tr>
+              <td colspan="3">
+                <div class="box_ad_unit" style="margin-left:15px; margin-bottom:20px">
+  <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- rectangle_with_mobile_300_250 -->
+  <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0941029748589440" data-ad-slot="2701942404" data-adsbygoogle-status="done" data-ad-status="filled"><div id="aswift_1_host" tabindex="0" title="Advertisement" aria-label="Advertisement" style="border: none; height: 250px; width: 300px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"><iframe id="aswift_1" name="aswift_1" browsingtopics="true" style="left:0;position:absolute;top:0;border:0;width:300px;height:250px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="300" height="250" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0941029748589440&amp;output=html&amp;h=250&amp;slotname=2701942404&amp;adk=4007237026&amp;adf=3200498958&amp;pi=t.ma~as.2701942404&amp;w=300&amp;lmt=1710057107&amp;format=300x250&amp;url=https%3A%2F%2Fwww.englishspeak.com%2Fen%2Fenglish-phrases%3Fcategory_key%3D9&amp;wgl=1&amp;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTIyLjAuNjI2MS4xMTIiLG51bGwsMCxudWxsLCI2NCIsW1siQ2hyb21pdW0iLCIxMjIuMC42MjYxLjExMiJdLFsiTm90KEE6QnJhbmQiLCIyNC4wLjAuMCJdLFsiR29vZ2xlIENocm9tZSIsIjEyMi4wLjYyNjEuMTEyIl1dLDBd&amp;dt=1710057107000&amp;bpp=1&amp;bdt=M&amp;idt=1&amp;shv=r20240306&amp;mjsv=m202403040101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D1531c2149feafc92%3AT%3D1710045385%3ART%3D1710045385%3AS%3DALNI_MaiEvdD4_8HhnIpS5IcXynq4lQIdw&amp;gpic=UID%3D00000d2f8eeb36a8%3AT%3D1710045385%3ART%3D1710045385%3AS%3DALNI_MZMsBhlwLXv1XV1mcBQS1bxNipeSw&amp;eo_id_str=ID%3D24ed1a8bdc5a0485%3AT%3D1710045385%3ART%3D1710045385%3AS%3DAA-AfjavMmuZiPh_1B9xfarW1FV6&amp;prev_fmts=0x0%2C300x250%2C300x250%2C1005x124%2C150x563%2C300x250%2C300x250%2C300x250%2C728x90%2C300x250%2C728x90%2C300x250%2C300x250%2C300x250%2C300x250%2C728x90%2C300x250%2C728x90%2C300x250%2C300x250%2C300x250%2C300x250%2C300x250%2C300x250%2C300x250%2C300x250%2C728x90%2C300x250%2C728x90%2C300x250%2C728x90%2C300x250%2C300x250%2C300x250%2C728x90%2C300x250%2C300x250%2C728x90%2C300x250%2C728x90%2C300x250%2C300x250%2C300x250%2C728x90%2C300x250%2C300x250%2C300x250%2C300x250%2C728x90%2C300x250%2C300x250%2C728x90%2C300x250%2C300x250%2C728x90%2C300x250%2C300x250%2C728x90%2C300x250%2C300x250%2C300x250%2C300x250%2C728x90%2C300x250&amp;nras=3&amp;correlator=8172016622395&amp;frm=20&amp;pv=1&amp;ga_vid=607725381.1710045385&amp;ga_sid=1710045385&amp;ga_hid=122564777&amp;ga_fc=1&amp;u_tz=420&amp;u_his=24&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_sd=1&amp;dmc=8&amp;adx=23&amp;ady=2903&amp;biw=942&amp;bih=919&amp;scr_x=0&amp;scr_y=0&amp;eid=44759875%2C44759926%2C44759842%2C31081577%2C31081612%2C31081643%2C95325425%2C95326315%2C31081640%2C95324160%2C95325784%2C95326936%2C31078663%2C31078665%2C31078668%2C31078670&amp;oid=2&amp;psts=AOrYGslfNZknH6FfpkU42oUWMSGE0zo1wos73L2IyAuIjKEYhp_Lm27XjjTRGY5d6_juLS24mKNb0_Lcyq-h2xLP0b31SRF3zgRF3DWj21hLBYx-kZ4%2CAOrYGskOgJmDAwtr_Xcb8uxM3P0oav4pVtsptjBCgIZjmUdomsz6SFCLIgQYLA5NmnON3wRsWTl7cLH-Qpxs52lNqsDAEcorKCtnqMjxVQWdh-CLckk%2CAOrYGsl-tHXcm5pGIYo9o16asTKpy3VR_8waqozXheBI3UzDGPYr56nhs_uqnzxik4_CuO-fGm8H4yr1sUjo7w%2CAOrYGslPBQM2eBNQ1pQ2sKYbvKTEGNALD-H8key0O14gFU2o-5kLYI-HSd4jRIcMvbr3pJuqEK1puWPwC9cO-g%2CAOrYGslNbXC4qEW5ffUAnI3q-wme22xHO7SQ08oUY9VgBMyQuif109DpbQJICRb-N4A_dbpuLxhMvO7q4RdmMg%2CAOrYGskKZ0_BNPCJWproP9AvNptI9bdC7LuVG2jXRb8Wysj5FaHp5tiopGtXeAtLLdzz2a_RAsp5l_BSuizGIg%2CAOrYGsk2lhlFRqqkmyZVw2r2LsZT9uya7xfCs6vvJaU2rwHHH-Bawx5MU8HuW7MKxk4b3brfMfoVMfyTYvia6g%2CAOrYGsl6SbfkgUcOspx0GZUu_2koteOlsYUNhtHf8EVX9--ZDIYoEBASgznoeSwp8VWmOau2FCa5S3_OdDDkGi6p8HOpuXeQ%2CAOrYGsmJYHgPwXRvw-6SaaDcvekKYtsidvnccZJwpmH4phPaqfvjAzkkXzTnTsA5czrz7WxpZLr0txsP8CygzA%2CAOrYGsl80OYdnsrUghHHE46u_m9zDj0vmvikgpUPVW0T5JPKAEJkGtxBg2E02Jm1wFp3oUvXpgjEfQwrbq2zzw%2CAOrYGsmPuxIoziXBzkyzfdZISmXn-QwBMfPt0U8SoDoyKLq-zvC99FuE40d7H-Co5ds72ucq4DwtQfSZKQMkmqpVusUuJf_F%2CAOrYGsltujYsdwWLpGL556lNkQw4e-VT9rjLsBxUNn-LYFMTWWfhc7dvBbViAJG5kAkxIGMFRh8T8o7Lio7nIw%2CAOrYGsnmRR9T9PkNJ9xwBSvxNAGFWzhGAwHWWnDlGFBwbRx3XlvJDn6Xbw6GEUpd4FlSZX0SIUuUQ_OmAVN-jGU%2CAOrYGsmaXoU9WAs5sAdyZN_SSzDpZ0tTOg4z1EWjIrzHwUjq8HloHhbaTuIV48wd71La3RVhX3ECvwcdxzC3Lyw%2CAOrYGslLBB7K9j61AWsbjf-9q-IqADyXX2oTbKyvu_9p2wOBhJ0orO5U5uUBG-soz5b72coBbxWS-WbC_Yf8ZYoJlkiJvOYz%2CAOrYGsmEhCgym8ZsHt23oS2ySBstGNfJbsDV5ZM6nHJnZnGkYfdMU59SSJUVWSxBfKUwN3kP_8Nrvm1oKEvlla8mAdsiETW7%2CAOrYGskd4TnwVSZFjgYBxQR32zOJ3PmBTIs-o-YXnna47Au1-_cCRT9qay9_9bA-1PeKip-PLBW6hmAo04G2IA%2CAOrYGsnLq2K7Id7NiiOwWZbxxfkOb9Ayk1HNR0Jb2WoLYN_JiYuXe2qxR3_FMUrOa0I_N97635T6zVm-gguuxg%2CAOrYGsn-vCpY8Mdj2Ik7OLXBAKGngmfIN_FFkopdg5EfghWuYTEAStPkbBGExGTcC0yviFfR4Gy9NrsIBKBi-g%2CAOrYGsmaFNnRsyo0ct-MmtmgA_VgHkDMy3NVvVR3xCUYXg2-B6nOf_zt71kuCEaZBJ3eXZ5AVD49Qc7YFt8dug%2CAOrYGsnqCz-FIvjhQp1Z1KHzVAxgFeoPusWJlxZM6qeABL32eZg_oH4B8pp1wvNmqLF5kdQor1dAGd7S55ANjy8%2CAOrYGslAMqqdVinBQ1BmtcJP6jolEjC_XL5XxPjqKeGZDrMOR0EkMACuksLzzdc1VSzGf7tXR5ExXOsbDHe2Rg3a%2CAOrYGslLTo5bPObf-KUottg77uGBojXg84FUZyo1aJNtv-HG23bNIPiARxxHg3V24kl5ng3dth4kQaG3laa0fSg%2CAOrYGsmAvR-wzby_PzPrCZsU_tNOVt63GgRhIUMW-s6VNMgpAkPYhO61k1UCBpU9ni_3KHXlUnqfaxbPE4-bmz4%2CAOrYGskqtwOV2A-f9V0MMpw_tjsNSC2FAaaf8Xj7Tz58yYkwHtnJd85ZNRV0dYgi9wC1C6wcXbtuevcuQWpW2neReAE8%2CAOrYGsmjuV_x97WL4PLqw7CZS7tff29PhPu9jkX02tI2kAP3kSamNrDKS6PE7fegF1Fm3SBMBdia4b_PcK4Un9gOrip2%2CAOrYGsnFY90dBNVhV6YRHo5UAVnwy-Tl3XzTmYZn9tVYm8DmzJJksEskCrKBAlecxrwVrL_3KLvrHhStmTbLitIK6LE6%2CAOrYGsl3EQrzVyIfuX0FrDDzbFmBPOuWEmCo5S22wcA5k-z1bWj7ibdGJSHRarcW4ojooIXnnT8D3DqvOehq1eDRJeR4%2CAOrYGslASKYRKh7qxYGrm5HRek2GEAwSPRDLVBE-Qsl9vDcPF2jrCr38skz4_ZNVF6QGkDYGyHri-z1u4JY9lPjT48xk%2CAOrYGsmNy6qVPfHrcoVgCA3Q3qVELEBZbJPV4u7ntrY3zomd9OntYXGOMnJtDxRUk5iB1kw_89r2pX8gwJU2wA%2CAOrYGsnmfpl9cQwrdGv9-IcZrvPYwwHeGScKGlnyoSZkbf8U6C9acTp9Kg4XXhqtye95v7pvGKabnELsjovCyc8%2CAOrYGsmpyUwSI6Xw8QppbxH_PT7BRgxcGTLoH3QN9dDreRJrDd2-SgNAE_-TeDxWn64v5CTjAixrrMM0dbirQiw%2CAOrYGsmR8JkjeZalUIaX7lQR9wPlQUfphQE0sea8ZyF9hX0PbRhYyj-k-8frCE8ra4rgkA-O5l71fa0_ZNNHYnE%2CAOrYGsm2QIJVc4Ahf4r8eA9dvW5JjXXGFYHRpMilzzobT5RhfmKeHib-2vhBK661pyxP6mdT-fjf1iOiFoQJLQ%2CAOrYGskvhnwYhK5OmLQqJDY6weDKFbEKrgNkJK6KEbhQyEC5r-W8z4KTNsPmZqGjl1liwajyoXNBiEzxm7yPMYY%2CAOrYGsk5vu0XFKhYqxIgb7H2MZKkXLOxTuR8YgRDfw5uhdKsUZtRkeOnccVrpYqKB3sGJXKbJev3CfJENpq63TQ&amp;pvsid=357661792486571&amp;tmod=764283921&amp;uas=3&amp;nvt=1&amp;topics=1&amp;tps=1&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1920%2C1040%2C959%2C919&amp;vis=1&amp;rsz=%7C%7CeEbr%7C&amp;abl=CS&amp;pfx=0&amp;fu=0&amp;bc=31&amp;bz=2&amp;td=1&amp;psd=W251bGwsbnVsbCwibGFiZWxfb25seV81IiwxXQ..&amp;nt=1&amp;ifi=77&amp;uci=a!25&amp;btvi=40&amp;fsb=1&amp;dtd=36" data-google-container-id="a!25" data-load-complete="true" data-google-query-id="CP6-6JOb6YQDFZZzDwIdM4QLPw"></iframe></div></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+
+              </td>
+            </tr>
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/think.mp3')">
+  										think</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/need.mp3')">
+  										need</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/see.mp3')">
+  										see</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/doctor.mp3')">
+  										doctor.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/IThinkINeedToSeeADoctor.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/IThinkINeedToSeeADoctor.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/its.mp3')">
+  										It's</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/august.mp3')">
+  										August</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/th.mp3')">
+  										25th.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/itsAugust25th.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/itsAugust25th.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/understand.mp3')">
+  										understand.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/IUnderstand.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/IUnderstand.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/june.mp3')">
+  										June</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/rd.mp3')">
+  										3rd.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/june3rd.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/june3rd.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/the.mp3')">
+  										The</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/food.mp3')">
+  										food</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/was.mp3')">
+  										was</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/delicious.mp3')">
+  										delicious.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/theFoodWasDelicious.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/theFoodWasDelicious.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/there.mp3')">
+  										There</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/are.mp3')">
+  										are</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/some.mp3')">
+  										some</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/apples.mp3')">
+  										apples</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/in.mp3')">
+  										in</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/the.mp3')">
+  										the</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/refrigerator.mp3')">
+  										refrigerator.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/thereAreSomeApplesInTheRefrigerator.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/thereAreSomeApplesInTheRefrigerator.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/theres.mp3')">
+  										There's</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/restaurant.mp3')">
+  										restaurant</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/near.mp3')">
+  										near</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/here.mp3')">
+  										here.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/theresARestaurantNearHere.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/theresARestaurantNearHere.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/theres.mp3')">
+  										There's</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/restaurant.mp3')">
+  										restaurant</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/over.mp3')">
+  										over</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/there.mp3')">
+  										there,</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/but.mp3')">
+  										but</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/i.mp3')">
+  										I</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/dont.mp3')">
+  										don't</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/think.mp3')">
+  										think</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/its.mp3')">
+  										it's</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/very.mp3')">
+  										very</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/good.mp3')">
+  										good.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/theresARestaurantOverThereButIDontThinkItsVeryGood.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/theresARestaurantOverThereButIDontThinkItsVeryGood.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/waiter.mp3')">
+  										Waiter!</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/waiter.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/waiter.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/waitress.mp3')">
+  										Waitress!</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/waitress.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/waitress.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/we.mp3')">
+  										We</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/can.mp3')">
+  										can</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/eat.mp3')">
+  										eat</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/italian.mp3')">
+  										Italian</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/or.mp3')">
+  										or</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/chinese.mp3')">
+  										Chinese</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/food.mp3')">
+  										food.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/weCanEatItalianOrChineseFood.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/weCanEatItalianOrChineseFood.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/well.mp3')">
+  										We'll</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										have</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/two.mp3')">
+  										two</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/glasses.mp3')">
+  										glasses</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/of.mp3')">
+  										of</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/water.mp3')">
+  										water</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/please.mp3')">
+  										please.</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wellHaveTwoGlassesOfWaterPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wellHaveTwoGlassesOfWaterPlease.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/what.mp3')">
+  										What</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/are.mp3')">
+  										are</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/going.mp3')">
+  										going</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/have.mp3')">
+  										have?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/whatAreYouGoingToHave.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/whatAreYouGoingToHave.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/what.mp3')">
+  										What</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/do.mp3')">
+  										do</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/recommend.mp3')">
+  										recommend?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/whatDoYouRecommend.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/whatDoYouRecommend.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/whats.mp3')">
+  										What's</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/your.mp3')">
+  										your</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/email.mp3')">
+  										email</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/address.mp3')">
+  										address?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/whatsYourEmailAddress.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/whatsYourEmailAddress.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/what.mp3')">
+  										What</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/drink.mp3')">
+  										drink?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/whatWouldYouLikeToDrink.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/whatWouldYouLikeToDrink.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/what.mp3')">
+  										What</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/eat.mp3')">
+  										eat?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/whatWouldYouLikeToEat.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/whatWouldYouLikeToEat.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/where.mp3')">
+  										Where</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/is.mp3')">
+  										is</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/an.mp3')">
+  										an</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/atm.mp3')">
+  										ATM?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/whereIsAnATM.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/whereIsAnATM.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/where.mp3')">
+  										Where</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/is.mp3')">
+  										is</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/there.mp3')">
+  										there</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/doctor.mp3')">
+  										doctor</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/who.mp3')">
+  										who</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/speaks.mp3')">
+  										speaks</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/english.mp3')">
+  										English?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/whereIsThereADoctorWhoSpeaksEnglish.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/whereIsThereADoctorWhoSpeaksEnglish.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/which.mp3')">
+  										Which</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/one.mp3')">
+  										one?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/whichOne.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/whichOne.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										Would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/ask.mp3')">
+  										ask</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/him.mp3')">
+  										him</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/come.mp3')">
+  										come</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/here.mp3')">
+  										here?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wouldYouAskHimToComeHere.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wouldYouAskHimToComeHere.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										Would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/glass.mp3')">
+  										glass</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/of.mp3')">
+  										of</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/water.mp3')">
+  										water?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wouldYouLikeAGlassOfWater.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wouldYouLikeAGlassOfWater.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										Would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/coffee.mp3')">
+  										coffee</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/or.mp3')">
+  										or</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/tea.mp3')">
+  										tea?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wouldYouLikeCoffeeOrTea.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wouldYouLikeCoffeeOrTea.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										Would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/something.mp3')">
+  										something</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/drink.mp3')">
+  										drink?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wouldYouLikeSomethingToDrink.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wouldYouLikeSomethingToDrink.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										Would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/some.mp3')">
+  										some</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/water.mp3')">
+  										water?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wouldYouLikeSomeWater.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wouldYouLikeSomeWater.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										Would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/some.mp3')">
+  										some</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/wine.mp3')">
+  										wine?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wouldYouLikeSomeWine.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wouldYouLikeSomeWine.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										Would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/go.mp3')">
+  										go</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/for.mp3')">
+  										for</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/a.mp3')">
+  										a</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/walk.mp3')">
+  										walk?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wouldYouLikeToGoForAWalk.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wouldYouLikeToGoForAWalk.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+              <p class="test">
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/would.mp3')">
+  										Would</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/you.mp3')">
+  										you</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/like.mp3')">
+  										like</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/to.mp3')">
+  										to</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/watch.mp3')">
+  										watch</a>
+
+                    <a style="cursor: pointer;" onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/wordsComplete/tv.mp3')">
+  										TV?</a>
+               </p>
+
+
+						</td>
+						<!-- end english column -->
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/slow/wouldYouLikeToWatchTV.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+						<td>
+							<img onclick="javascript:PlaySound('http://dcgm6jfwtvdqr.cloudfront.net/instantspeak/english/phrases/mp3/wouldYouLikeToWatchTV.mp3')" src="/audio3.gif" width="40" height="41" onmouseover="this.src=lightergif.src;" onmouseout="this.src=darkergif.src;">
+						</td>
+					</tr>
+			</tbody></table>
