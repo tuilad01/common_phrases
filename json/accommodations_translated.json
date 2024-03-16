@@ -1,0 +1,226 @@
+[
+  { "sentence": "Be careful.", "meaning": "cẩn thận" },
+  { "sentence": "Be careful driving.", "meaning": "Lái xe cẩn thận" },
+  {
+    "sentence": "Can you translate this for me?",
+    "meaning": "Bạn có thể dịch cái này cho tôi được không?"
+  },
+  {
+    "sentence": "Chicago is very different from Boston.",
+    "meaning": "Chicago rất khác với Boston"
+  },
+  { "sentence": "Don't worry.", "meaning": "đừng lo lắng" },
+  {
+    "sentence": "Everyone knows it.",
+    "meaning": "mọi người đều biết về điều đó"
+  },
+  { "sentence": "Everything is ready.", "meaning": "Mọi thứ đã sẵn sàng" },
+  { "sentence": "Excellent.", "meaning": "xuất sắc" },
+  { "sentence": "From time to time.", "meaning": "theo thời gian" },
+  { "sentence": "Good idea.", "meaning": "ý tưởng tốt" },
+  {
+    "sentence": "He likes it very much.",
+    "meaning": "Anh ấy thích điều đó rất nhiều"
+  },
+  { "sentence": "Help!", "meaning": "Sự giúp đỡ" },
+  { "sentence": "He's coming soon.", "meaning": "Anh ấy sẽ đến sớm" },
+  { "sentence": "He's right.", "meaning": "Anh ấy đúng" },
+  { "sentence": "He's very annoying.", "meaning": "Anh ấy rất khó chịu" },
+  { "sentence": "He's very famous.", "meaning": "Anh ấy rất nổi tiếng" },
+  { "sentence": "How are you?", "meaning": "Nạn khoẻ không?" },
+  { "sentence": "How's work going?", "meaning": "Công việc thế nào rồi" },
+  { "sentence": "Hurry!", "meaning": "mau lên" },
+  { "sentence": "I ate already.", "meaning": "Tôi đã ăn rồi" },
+  { "sentence": "I can't hear you.", "meaning": "Tôi không thể nghe thấy bạn" },
+  { "sentence": "I'd like to go for a walk.", "meaning": "Tôi muốn đi dạo" },
+  {
+    "sentence": "I don't know how to use it.",
+    "meaning": "Tôi không biết cách sử dụng nó"
+  },
+  { "sentence": "I don't like him.", "meaning": "Tôi không thích anh ấy" },
+  { "sentence": "I don't like it.", "meaning": "Tôi không thích nó" },
+  {
+    "sentence": "I don't speak very well.",
+    "meaning": "Tôi nói chuyện không được tốt lắm"
+  },
+  { "sentence": "I don't understand.", "meaning": "Tôi không hiểu" },
+  { "sentence": "I don't want it.", "meaning": "Tôi không muốn nó" },
+  { "sentence": "I don't want that.", "meaning": "Tôi không muốn điều đó" },
+  {
+    "sentence": "I don't want to bother you.",
+    "meaning": "Tôi không muốn làm phiền bạn"
+  },
+  { "sentence": "I feel good.", "meaning": "Tôi cảm thấy tốt" },
+  {
+    "sentence": "If you need my help, please let me know.",
+    "meaning": "Nếu bạn cần sự giúp đỡ của tôi, xin vui lòng cho tôi biết"
+  },
+  { "sentence": "I get off of work at 6.", "meaning": "Tôi tan làm lúc 6 giờ" },
+  { "sentence": "I have a headache.", "meaning": "Tôi bị đau đầu" },
+  {
+    "sentence": "I hope you and your wife have a nice trip.",
+    "meaning": "Chúc bạn và vợ có một chuyến đi vui vẻ"
+  },
+  { "sentence": "I know.", "meaning": "Tôi biết" },
+  { "sentence": "I like her.", "meaning": "Tôi thích cô ấy" },
+  {
+    "sentence": "I'll call you when I leave.",
+    "meaning": "Tôi sẽ gọi bạn khi tôi rời đi"
+  },
+  { "sentence": "I'll come back later.", "meaning": "Tôi sẽ quay lại sau" },
+  { "sentence": "I'll pay.", "meaning": "Tôi sẽ trả" },
+  { "sentence": "I'll take it.", "meaning": "Tôi sẽ lấy nó" },
+  {
+    "sentence": "I'll take you to the bus stop.",
+    "meaning": "Tôi sẽ đưa bạn đến trạm xe bus"
+  },
+  { "sentence": "I lost my watch.", "meaning": "Tôi bị mất đồng hồ" },
+  { "sentence": "I love you.", "meaning": "Anh yêu em" },
+  { "sentence": "I'm an American.", "meaning": "Tôi là một người Mỹ" },
+  {
+    "sentence": "I'm cleaning my room.",
+    "meaning": "Tôi đang dọn dẹp căn phòng của tôi"
+  },
+  { "sentence": "I'm cold.", "meaning": "Tôi lạnh" },
+  { "sentence": "I'm coming to pick you up.", "meaning": "Tôi đến đón bạn" },
+  { "sentence": "I'm going to leave.", "meaning": "Tôi sẽ rời đi" },
+  { "sentence": "I'm good, and you?", "meaning": "Tôi ổn, bạn thì sau?" },
+  { "sentence": "I'm happy.", "meaning": "Tôi hạnh phúc" },
+  { "sentence": "I'm hungry.", "meaning": "Tôi đói" },
+  { "sentence": "I'm married.", "meaning": "Tôi đã kết hôn" },
+  { "sentence": "I'm not busy.", "meaning": "Tôi không bận" },
+  { "sentence": "I'm not married.", "meaning": "Tôi chưa kết hôn" },
+  { "sentence": "I'm not ready yet.", "meaning": "Tôi vẫn chưa sẵn sàng" },
+  { "sentence": "I'm not sure.", "meaning": "Tôi không chắc" },
+  {
+    "sentence": "I'm sorry, we're sold out.",
+    "meaning": "Tôi xin lỗi, chúng tôi đã bán hết rồi"
+  },
+  { "sentence": "I'm thirsty.", "meaning": "Tôi khát nước" },
+  {
+    "sentence": "I'm very busy. I don't have time now.",
+    "meaning": "Tôi rất bận. Bây giờ tôi không có thời gian"
+  },
+  {
+    "sentence": "I need to change clothes.",
+    "meaning": "Tôi cần thay quần áo"
+  },
+  { "sentence": "I need to go home.", "meaning": "Tôi cần về nhà" },
+  {
+    "sentence": "I only want a snack.",
+    "meaning": "Tôi chỉ một một bữa ăn nhẹ"
+  },
+  {
+    "sentence": "Is Mr. Smith an American?",
+    "meaning": "Ông Smith có phải là người Mỹ không?"
+  },
+  { "sentence": "Is that enough?", "meaning": "Như thế đủ chưa" },
+  { "sentence": "I think it's very good.", "meaning": "Tôi nghĩ nó rất tốt" },
+  { "sentence": "I think it tastes good.", "meaning": "Tôi nghĩ nó ngon" },
+  {
+    "sentence": "I thought the clothes were cheaper.",
+    "meaning": "Tôi nghĩ quần áo là rẻ hơn"
+  },
+  { "sentence": "It's longer than 2 miles.", "meaning": "Nó dài hơn 2 dặm" },
+  {
+    "sentence": "I've been here for two days.",
+    "meaning": "Tôi đã ở đây được 2 ngày"
+  },
+  {
+    "sentence": "I've heard Texas is a beautiful place.",
+    "meaning": "Tôi nghe nói Texas là một nơi đẹp"
+  },
+  {
+    "sentence": "I've never seen that before.",
+    "meaning": "Tôi chưa thấy điều đó trước đây"
+  },
+  {
+    "sentence": "I was about to leave the restaurant when my friends arrived.",
+    "meaning": "Tôi đang định rời khỏi nhà hàng thì những người bạn của tôi đến"
+  },
+  { "sentence": "Just a little.", "meaning": "chỉ một chút" },
+  { "sentence": "Just a moment.", "meaning": "Chie một lát thoi" },
+  { "sentence": "Let me check.", "meaning": "Để tôi kiểm tra" },
+  { "sentence": "Let me think about it.", "meaning": "Để tôi nghĩ về nó" },
+  { "sentence": "Let's go have a look.", "meaning": "Hãy đi xem thử nào" },
+  {
+    "sentence": "Let's practice English.",
+    "meaning": "Hãy luyện tập tiếng anh"
+  },
+  {
+    "sentence": "May I speak to Mrs. Smith please?",
+    "meaning": "Làm ơn tôi có thể nói chuyện với bà Smith được không?"
+  },
+  { "sentence": "More than that.", "meaning": "Nhiều hơn thế" },
+  { "sentence": "Never mind.", "meaning": "Đừng bận tâm" },
+  { "sentence": "Next time.", "meaning": "Lần tới" },
+  { "sentence": "No.", "meaning": "Không" },
+  { "sentence": "Nonsense.", "meaning": "Vô lý" },
+  { "sentence": "No, thank you.", "meaning": "Không, cảm ơn" },
+  { "sentence": "Nothing else.", "meaning": "Không có gì khác" },
+  { "sentence": "Not recently.", "meaning": "Không phải gần đây" },
+  { "sentence": "Not yet.", "meaning": "chưa" },
+  { "sentence": "Of course.", "meaning": "Tất nhiên" },
+  { "sentence": "Okay.", "meaning": "Ok" },
+  {
+    "sentence": "Please fill out this form.",
+    "meaning": "Vui lòng điền vào chỗ trống"
+  },
+  {
+    "sentence": "Please take me to this address.",
+    "meaning": "Làm ơn đưa tôi đến địa chỉ "
+  },
+  { "sentence": "Please write it down.", "meaning": "Hãy viết nó ra" },
+  { "sentence": "Really?", "meaning": "Thật sự?" },
+  { "sentence": "Right here.", "meaning": "Ngay tại đây" },
+  { "sentence": "Right there.", "meaning": "Ngay đó" },
+  { "sentence": "See you later.", "meaning": "Hẹn gặp lại" },
+  { "sentence": "See you tomorrow.", "meaning": "Hẹn gặp bạn lại ngày mai" },
+  { "sentence": "See you tonight.", "meaning": "Hẹn gặp lại tối nay" },
+  { "sentence": "She's pretty.", "meaning": "Cô ấy thật xinh đẹp" },
+  { "sentence": "Sorry to bother you.", "meaning": "Con lỗi đã làm phiền bạn" },
+  { "sentence": "Stop!", "meaning": "dừng lại" },
+  { "sentence": "Take a chance.", "meaning": "Nắm bắt cơ hội" },
+  { "sentence": "Take it outside.", "meaning": "Lấy nó ra ngoài" },
+  { "sentence": "Tell me.", "meaning": "Nói cho tôi" },
+  { "sentence": "Thanks for everything.", "meaning": "Cảm ơn vì tất cả" },
+  { "sentence": "Thanks for your help.", "meaning": "Cảm ơn bạn đã giúp đỡ" },
+  { "sentence": "Thank you.", "meaning": "Cảm ơn bạn" },
+  { "sentence": "Thank you miss.", "meaning": "Cảm ơn cô" },
+  { "sentence": "Thank you sir.", "meaning": "Cảm ơn ngài" },
+  { "sentence": "Thank you very much.", "meaning": "Cảm ơn bạn rất nhiều" },
+  { "sentence": "That looks great.", "meaning": "Điều đó thật tuyệt" },
+  { "sentence": "That's alright.", "meaning": "Không sao đâu" },
+  { "sentence": "That's enough.", "meaning": "Thế là đủ rồi" },
+  { "sentence": "That's fine.", "meaning": "Tốt rồi" },
+  { "sentence": "That's it.", "meaning": "Đó là nó" },
+  { "sentence": "That smells bad.", "meaning": "Có mùi khó chịu quá" },
+  { "sentence": "That's not fair.", "meaning": "Điều đó không công bằng" },
+  { "sentence": "That's not right.", "meaning": "Điều đó không đúng" },
+  { "sentence": "That's right.", "meaning": "Đúng rồi" },
+  { "sentence": "That's too bad.", "meaning": "Điều đó quá tệ" },
+  { "sentence": "That's too many.", "meaning": "Nhiều quá" },
+  { "sentence": "That's too much.", "meaning": "Quá nhiều" },
+  {
+    "sentence": "The book is under the table.",
+    "meaning": "Quyển sách nằm ở dưới bàn"
+  },
+  { "sentence": "They'll be right back.", "meaning": "Họ sẽ quạy lại ngay" },
+  { "sentence": "They're the same.", "meaning": "Họ giống nhau" },
+  { "sentence": "They're very busy.", "meaning": "Họ rất bận rộn" },
+  { "sentence": "This doesn't work.", "meaning": "Điều này không có tác dụng" },
+  { "sentence": "This is very difficult.", "meaning": "Nó rất khó" },
+  {
+    "sentence": "This is very important.",
+    "meaning": "Cái này rất quan trọng"
+  },
+  { "sentence": "Try it.", "meaning": "Thử nó" },
+  { "sentence": "Very good, thanks.", "meaning": "Tốt lắm, cảm ơn nhé." },
+  { "sentence": "We like it very much.", "meaning": "" },
+  { "sentence": "Would you take a message please?", "meaning": "" },
+  { "sentence": "Yes, really.", "meaning": "" },
+  { "sentence": "You're beautiful.", "meaning": "" },
+  { "sentence": "You're very nice.", "meaning": "" },
+  { "sentence": "You're very smart.", "meaning": "" },
+  { "sentence": "Your things are all here.", "meaning": "" }
+]
